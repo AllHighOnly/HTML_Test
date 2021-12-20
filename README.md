@@ -8,7 +8,11 @@ NEW RELEASES:
 - V0.0.2: Some new minor visual changes
 - V0.0.3: Added some new listing types
           Hosted HTML on free hosting service
-
+- V0.0.4: Added disclaimer at the bottom
+          Added some colors
+          Added CSS file for colors
+          Added snowflaker for christmas season
+         
 ONLINE VERSION:
 - Free host: https://bit.ly/3H3fyfr
 - Virus total: https://bit.ly/3yHlt6W
