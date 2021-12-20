@@ -1,0 +1,5 @@
+- All these files are safe and you can check whats inside without downloading!
+-
+- If you see any security issues, tell me.
+-
+- If you notice any bugs or want to give feedback, message me.
