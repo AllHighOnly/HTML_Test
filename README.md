@@ -7,11 +7,11 @@ NEW RELEASES:
 - V0.0.1: - Added a "Go back" button on every page which leads you back to the index page
 - V0.0.2: - Some new minor visual changes
 - V0.0.3: - Added some new listing types
-          - Hosted HTML on free hosting service
+          - Hosted HTML on free hosting service (Everthing in the upcoming versions will be changed on here too)
 - V0.0.4: - Added disclaimer at the bottom
           - Added some colors
           - Added CSS file for colors
-          - Added snowflaker for christmas season
+          - Added snowflakes for christmas season
          
 ONLINE VERSION:
 - Free host: https://bit.ly/3H3fyfr
