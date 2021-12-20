@@ -16,6 +16,8 @@ NEW RELEASES:
 - Added some colors
 - Added CSS file for colors
 - Added snowflakes for christmas season
+- V0.0.5
+- Some minor changes after feedback
          
 ONLINE VERSION:
 - Free host: https://bit.ly/3H3fyfr
